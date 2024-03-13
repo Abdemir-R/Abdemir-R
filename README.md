@@ -1,7 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Abdemir! 
 
-<!--
-**Abdemir-R/Abdemir-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>Active Directory Setup Lab</b>
+  - [Active Directory Lab](https://github.com/Abdemir-R/ActiveDirectoryLab/tree/main)
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="abdemir-rivera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/abdemir-rivera/
+
+
+
 
 Here are some ideas to get you started:
 
