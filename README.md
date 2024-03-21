@@ -6,7 +6,8 @@
   - [Active Directory Lab](https://github.com/Abdemir-R/ActiveDirectoryLab/tree/main)
  
 
-<h2>👨‍💻 Python Projects:</h2>
+- <b>Python Projects</b>
+  - [RPG Game](https://github.com/Abdemir-R/Python-Text-Game-ASCII)
 
 
 
