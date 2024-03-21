@@ -4,6 +4,9 @@
 
 - <b>Active Directory Setup Lab</b>
   - [Active Directory Lab](https://github.com/Abdemir-R/ActiveDirectoryLab/tree/main)
+ 
+
+<h2>👨‍💻 Python Projects:</h2>
 
 
 
